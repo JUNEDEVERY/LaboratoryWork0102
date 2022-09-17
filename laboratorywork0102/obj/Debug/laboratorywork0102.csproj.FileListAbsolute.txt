@@ -1,0 +1,8 @@
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\bin\Debug\laboratorywork0102.exe.config
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\bin\Debug\laboratorywork0102.exe
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\bin\Debug\laboratorywork0102.pdb
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\obj\Debug\laboratorywork0102.csproj.AssemblyReference.cache
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\obj\Debug\laboratorywork0102.csproj.SuggestedBindingRedirects.cache
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\obj\Debug\laboratorywork0102.csproj.CoreCompileInputs.cache
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\obj\Debug\laboratorywork0102.exe
+C:\Users\stron\source\repos\laboratorywork0102\laboratorywork0102\obj\Debug\laboratorywork0102.pdb
